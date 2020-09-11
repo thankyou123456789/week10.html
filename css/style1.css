@@ -1,0 +1,18 @@
+
+@import url ("https://fonts.googleapis.com/css2?family=Open+Sans:300,600&display=swap");
+@import ur;('https://fonts.googleapis.com/css2?family=')
+body{
+    font-family:'Open Sans',sans-serif;
+    /*font-weight: 300; */
+    /*background-color: rgb(8, 237, 46); */
+}
+.textCenter {
+     text-align:center; 
+}
+#u-textCenter{
+    text-align:center ;
+}
+.navTitle{
+    color:var(--primary);
+    font-size :225px;
+}
